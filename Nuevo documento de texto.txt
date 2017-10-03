@@ -1,0 +1,8 @@
+Indice:
+1	Objetivos
+2	Actividades
+2.1	Seguridad
+2.2	Infraestructura
+2.3	Academico
+2.4	Deportivo
+3	Periodo de tiempo
